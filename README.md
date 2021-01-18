@@ -3,7 +3,7 @@ Pandemi sürecindeki alışveriş alışkanlıklarını incelemek amacıyla anke
 
 Anket verilerinin analizi, Python programlama dilinde `Pandas`, `Numpy`, `Scipy`, `Matplotlib`, `Seaborn`, `Pandas Profiling` gibi modüller ile ve RapidMiner programı ile gerçekleştirildi.
 
-Kodlar için tıklayınız: [Colab](https://github.com/recepayddogdu/Anket-Analiz)
+Kodlar için tıklayınız: [Colab](https://colab.research.google.com/drive/1CdxVY4_1_pjIA95ca5ma-8aNq0wIO-zR)
 
 - [Anketi görüntülemek için tıklayınız.](https://docs.google.com/forms/d/e/1FAIpQLSf5Pc-elaam600ftE8O6QjSCmH8uQ76JvPr5f-lo8Li8XkVBg/viewform?usp=sf_link)
 
